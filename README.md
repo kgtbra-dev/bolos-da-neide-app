@@ -1,0 +1,1 @@
+Este é um projeto que visa o desenvolvimento de um sistema que ajude Dona Neide em sua loja de bolos.
