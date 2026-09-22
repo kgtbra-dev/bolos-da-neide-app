@@ -41,25 +41,45 @@ a {
 }
 
 #escrita-meio h2 {
-    font-size: 100px;
-    width: 75%;
+  font-size: 100px;
+  width: 75%;
 }
 
-span{
-    color:palevioletred ;
+span {
+  color: palevioletred;
 }
 
 #info-meio img {
-    padding-top: 30px;
-    width: 250px; 
-    height: auto;   
+  padding-top: 30px;
+  width: 250px;
+  height: auto;
 }
-
 
 #footer {
   background-color: palevioletred;
 }
 
 #intro-cards {
-  
+  padding-left: 20px;
+}
+
+#cards {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+#cards img {
+  object-fit: cover;
+  width: 400px;
+  height: 400px;
+}
+.card {
+  background-color: rgb(255, 200, 218);
+  padding: 8px;
+  width: 22.5%;
+  margin-bottom: 40px;
 }
