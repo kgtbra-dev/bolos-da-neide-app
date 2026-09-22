@@ -70,7 +70,9 @@ span {
   margin-left: 20px;
   margin-top: 20px;
   margin-right: 20px;
+  padding-top: 5px;
 }
+
 
 #cards img {
   object-fit: cover;
@@ -79,7 +81,8 @@ span {
 }
 .card {
   background-color: rgb(255, 200, 218);
-  padding: 8px;
+  padding: 10px;
   width: 22.5%;
   margin-bottom: 40px;
+  border-radius: 8px;
 }
