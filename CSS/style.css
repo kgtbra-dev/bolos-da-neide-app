@@ -84,6 +84,25 @@ span {
   margin-bottom: 40px;
   border-radius: 8px;
 }
+table {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+th, td {
+  border: 1px;
+  text-align: left;
+  padding: 5px;
+}
+td {
+  background-color: rgb(255, 200, 218);
+}
+th {
+  background-color: palevioletred;
+}
 
 #footer {
   padding-top: 10px;
